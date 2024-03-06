@@ -27,7 +27,8 @@ Power BI, Excel
 
 
 ## 🔗 Quick Links
-[![View Interactive Dashboard](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.novypro.com/project/atliq-presence-insights-4)
+[![View Interactive Dashboard](https://img.shields.io/badge/view_interactive_dashboard-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.novypro.com/project/atliq-presence-insights-4)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyasahain/)
 
 
